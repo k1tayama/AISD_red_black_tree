@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+rbt_results.json
+rbt_graphs.png
+*.png
+*.jpg
+input_data.txt
